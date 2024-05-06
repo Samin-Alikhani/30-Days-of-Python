@@ -1,0 +1,30 @@
+    Simple Calculator - Basics of Python, arithmetic operations.
+    Guess the Number Game - Conditionals, loops, user input.
+    Birthday Dictionary - Dictionaries, working with user input.
+    To-Do List App - File handling, CRUD operations.
+    Simple Alarm Clock - Working with date and time modules.
+    Email Slicer - String manipulation, slicing.
+    Binary Search Algorithm - Understanding algorithms, recursion.
+    Contact Book - Object-oriented programming, file I/O.
+    Mad Libs Generator - String concatenation, user input.
+    Dice Rolling Simulator - Random number generation, functions.
+    Basic Web Scraper - Using requests and BeautifulSoup.
+    Tic Tac Toe Game - Advanced list operations, game logic.
+    Countdown Timer - Time manipulation, loops.
+    Expense Tracker - Handling floating point arithmetic, file storage.
+    Content Aggregator - Parsing multiple websites, storing results.
+    Quiz Application - Conditional logic, data storage.
+    Temperature Converter GUI - Tkinter for GUI applications, unit conversion.
+    Personal Diary Management System - File handling, complex user interface in console.
+    API Consumer - Fetching data from REST APIs, JSON manipulation.
+    Currency Converter - API usage, error handling.
+    Static Website Generator - File I/O, string manipulation, understanding web content structure.
+    Morse Code Translator - Dictionaries, algorithms, user input.
+    Text-based Adventure Game - Storytelling, user choices, maintaining state.
+    Password Generator - Random module, security considerations.
+    File Organizer - OS module, organizing files based on extension, size.
+    Regex Query Tool - Regular expressions, searching patterns in text.
+    Simple Blog with Flask - Web frameworks, databases.
+    Portfolio Website with Django - Full-stack development, web deployment.
+    Data Visualization with Matplotlib - Libraries for visual representation of data.
+    Machine Learning with Scikit-Learn - Basic ML models, understanding data science pipelines.
